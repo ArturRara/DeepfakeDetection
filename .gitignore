@@ -2,3 +2,9 @@ __pycache__/
 models/unused_models.ipynb
 .vscode/extensions.json
 
+PD_106A Wzor strony tytulowej pracy dyplomowej inz.docx
+loss.png
+accuracy.png
+state_dict/
+Praca_inz.pdf
+Praca_inz.docx
